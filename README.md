@@ -4,7 +4,7 @@
 # Podfile
 platform :ios, '7.0'
 
-pod "JYEmptyView"
+pod "JYSelectButton"
 
 
 ## Rely
@@ -13,5 +13,5 @@ We need to rely on a few tools in the Tools folder inside CommmonTools
 
 ## How to use
 
-    JYSelectButton *btn = [[JYTTSelectButton alloc] init];
+    JYSelectButton *btn = [[JYSelectButton alloc] init];
 
